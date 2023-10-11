@@ -1,0 +1,16 @@
+PODS:
+  - AlipaySDK-iOS (15.8.11)
+
+DEPENDENCIES:
+  - AlipaySDK-iOS
+
+SPEC REPOS:
+  trunk:
+    - AlipaySDK-iOS
+
+SPEC CHECKSUMS:
+  AlipaySDK-iOS: a07b6eafa847a5b29acb6c150ea16d9792d5d167
+
+PODFILE CHECKSUM: 1b6c2742456ebf20d0ba7e98ac6796ec5ad35e09
+
+COCOAPODS: 1.12.1
